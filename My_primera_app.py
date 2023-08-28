@@ -2,7 +2,7 @@ import streamlit as st
 
 def main():
     st.title("Mi primera app")
-    st.write("Autor: Esta app fue elaborada por COLOQUE AQUÍ SU NOMBRE")
+    st.write("Autor: Esta app fue elaborada por Jean Carlos Perilla")
 
     user_name = st.text_input("Ingresa tu nombre", "Escribe aquí...")
 
